@@ -1,0 +1,37 @@
+body {
+background-color: honeydew;
+}
+
+h1 {
+color: indigo;
+text-align: center;
+}
+P {
+	font-family: "verdana", sans-serif;
+	font-size: 14px;
+}
+span.boldtext {
+	font-weight: bold;
+}
+span.italictext {
+	font-style: italic;
+}
+table, tr, td {
+	background-color: white;
+}
+th, td {
+	border: 2px solid black;
+	border-collapse: collapse;
+	padding: 15px;
+	vertical-align: top;
+	text-align: left;
+}
+caption {
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+}
+
+legend {
+	font-style: bold;
+}
